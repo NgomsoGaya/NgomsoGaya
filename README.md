@@ -4,13 +4,13 @@ Ahoy, fellow travelers of the digital realm! 🌟 Welcome to the expedition log 
 ### Crafting the Digital Tapestry 🎨🖋️
 Greetings, I'm Ngomso Gaya, your trusty weaver of the web. Allow me to introduce you to the threads of my skills:
 
-<p><b>🌐 HTML Architect:<b>I construct the foundation of online realms with the language of the web gods.
-<b>🎨 CSS Artisan:<b> Transforming dull pixels into vibrant artscapes through the stroke of my CSS brush.
-<b>✨ JavaScript Conjurer:<b> Breathing life into websites with the magic of interactive scripts.
-<b>⚙️ Node.js Nomad:<b> Roaming the server realms, building applications that leave footprints.
-<b>🗃️ PostgreSQL Alchemist:<b> Turning raw data into golden insights using the mystical PostgreSQL brew.
-<b>🌀 React Sorcerer:<b> Currently deciphering the spells of React to forge dynamic user experiences.
-<b> 🧪 Unit Testing Magician:<b> Ensuring my creations are resilient by conjuring powerful unit tests.</p>
+<p><b>🌐 HTML Architect:</b>b>I construct the foundation of online realms with the language of the web gods.
+<b>🎨 CSS Artisan:</b>b> Transforming dull pixels into vibrant artscapes through the stroke of my CSS brush.
+<b>✨ JavaScript Conjurer:</b>b> Breathing life into websites with the magic of interactive scripts.
+<b>⚙️ Node.js Nomad:</b>b> Roaming the server realms, building applications that leave footprints.
+<b>🗃️ PostgreSQL Alchemist:</b>b> Turning raw data into golden insights using the mystical PostgreSQL brew.
+<b>🌀 React Sorcerer:</b>b> Currently deciphering the spells of React to forge dynamic user experiences.
+<b> 🧪 Unit Testing Magician:</b>b> Ensuring my creations are resilient by conjuring powerful unit tests.</p>
 
 ### Chronicles of the CodeX Citadel 🏰⚔️
 In the heart of my journey lies the illustrious CodeX bootcamp, a citadel of knowledge and innovation. As a devoted squire, I'm diligently honing my skills and absorbing the teachings of the masters. My current quest: to master the art of React magic and wield its powers for epic front-end adventures.
