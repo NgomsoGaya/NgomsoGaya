@@ -1,4 +1,4 @@
-### Ngomso Gaya's GitHub Adventure 🌌🚀
+<h1>Ngomso Gaya's GitHub Adventure 🌌🚀</h1> 
 Ahoy, fellow travelers of the digital realm! 🌟 Welcome to the expedition log of Ngomso Gaya, an explorer hailing from the enchanting lands of Cape Town. Join me as I embark on an exhilarating coding odyssey, filled with twists, turns, and lines of code that weave tales of innovation and creativity. 🗺️
 
 ### Crafting the Digital Tapestry 🎨🖋️
