@@ -19,7 +19,7 @@ Greetings, I'm Ngomso Gaya, your trusty weaver of the web. Allow me to introduce
 <b> 🧪 Unit Testing Magician:</b> Ensuring my creations are resilient by conjuring powerful unit tests.</p>
 
 <h1> Chronicles of the CodeX Citadel 🏰⚔️</h1>
-In the heart of my journey lies the illustrious CodeX bootcamp, a citadel of knowledge and innovation. As a devoted squire, I'm diligently honing my skills and absorbing the teachings of the masters. My current quest: to master the art of React magic and wield its powers for epic front-end adventures.
+In the heart of my journey lies the illustrious CodeX bootcamp, a citadel of knowledge and innovation. As a devoted squire, I'm diligently honing my skills and absorbing the teachings of the masters. My current personal quest: to master the art of React magic and wield its powers for epic front-end adventures.
 
 <h1> Unveiling Quest Artifacts ⚡🗝️</h1>
 Brace yourselves for the grand reveal of artifacts forged in the fires of creativity! From web spells to digital relics, I'll be unveiling a trove of projects that showcase the diversity of my talents. Stay vigilant for updates! 🔮📜
