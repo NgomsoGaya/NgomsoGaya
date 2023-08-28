@@ -27,7 +27,9 @@ Brace yourselves for the grand reveal of artifacts forged in the fires of creati
 <h1> Join the Expedition Party! 🤝🌄</h1>
 Embarking on a journey is much more thrilling in the company of fellow adventurers. If you seek a collaborator, a co-creator, or simply a friendly coding companion, don't hesitate to send a message through these mystical channels:
 
+
 📜 GitHub Scroll: github.com/ngomsogaya
+
 🌟 LinkedIn Link: linkedin.com/in/ngomsogaya
 
 Remember, each line of code is a step on an extraordinary expedition. Let's script stories that will echo through the digital cosmos! 🚀📖
