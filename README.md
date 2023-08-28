@@ -13,17 +13,18 @@ Greetings, I'm Ngomso Gaya, your trusty weaver of the web. Allow me to introduce
 <b>⚙️ Node.js Nomad:</b> Roaming the server realms, building applications that leave footprints.
 
 <b>🗃️ PostgreSQL Alchemist:</b> Turning raw data into golden insights using the mystical PostgreSQL brew.
+
 <b>🌀 React Sorcerer:</b> Currently deciphering the spells of React to forge dynamic user experiences.
 
 <b> 🧪 Unit Testing Magician:</b> Ensuring my creations are resilient by conjuring powerful unit tests.</p>
 
-### Chronicles of the CodeX Citadel 🏰⚔️
+<h1> Chronicles of the CodeX Citadel 🏰⚔️</h1>
 In the heart of my journey lies the illustrious CodeX bootcamp, a citadel of knowledge and innovation. As a devoted squire, I'm diligently honing my skills and absorbing the teachings of the masters. My current quest: to master the art of React magic and wield its powers for epic front-end adventures.
 
-### Unveiling Quest Artifacts ⚡🗝️
+<h1> Unveiling Quest Artifacts ⚡🗝️</h1>
 Brace yourselves for the grand reveal of artifacts forged in the fires of creativity! From web spells to digital relics, I'll be unveiling a trove of projects that showcase the diversity of my talents. Stay vigilant for updates! 🔮📜
 
-### Join the Expedition Party! 🤝🌄
+<h1> Join the Expedition Party! 🤝🌄</h1>
 Embarking on a journey is much more thrilling in the company of fellow adventurers. If you seek a collaborator, a co-creator, or simply a friendly coding companion, don't hesitate to send a message through these mystical channels:
 
 📜 GitHub Scroll: github.com/ngomsogaya
