@@ -1,6 +1,3 @@
-<h1>Ngomso Gaya's GitHub Journey 🌱👣</h1> 
-
-
   ![Header](./github-header-image.png)
 
 Greetings, curious souls and fellow wanderers! 🌟 Step into the realm of Ngomso Gaya, an explorer rooted in the vibrant city of Cape Town. Here, within the lines of code, I unfold my narrative—one of growth, learning, and endless curiosity. Join me as I traverse the intricate paths of technology and self-discovery. 🚶‍♂️✨
