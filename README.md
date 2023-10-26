@@ -1,4 +1,9 @@
 <h1>Ngomso Gaya's GitHub Journey 🌱👣</h1> 
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gist/Pepyn0/99b1635ffc5c8e325bdcdd93115f09f9/raw/22c367b789fc8fabb9608e44133eddb3c3c432ce/github-header-image.svg" alt="Card header"/>
+</div>
+
 Greetings, curious souls and fellow wanderers! 🌟 Step into the realm of Ngomso Gaya, an explorer rooted in the vibrant city of Cape Town. Here, within the lines of code, I unfold my narrative—one of growth, learning, and endless curiosity. Join me as I traverse the intricate paths of technology and self-discovery. 🚶‍♂️✨
 
 <h1>Weaving the Digital Thread 🕸️🧶</h1>
