@@ -1,5 +1,3 @@
-  ![Header](./github-header-image.png)
-
   ![image](https://github.com/NgomsoGaya/NgomsoGaya/assets/125261321/8c7406b6-ade1-432f-ae15-093886ccebf7)
 
 
