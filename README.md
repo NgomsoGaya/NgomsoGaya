@@ -44,39 +44,3 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/parceljs/parceljs-ar21.svg"></code>
 </p>
 
-<h1>Chronicles of the Learning Odyssey 📚⚔️</h1>
-My voyage is anchored in the hallowed halls of the CodeX bootcamp, where knowledge flows like a serene river. As a humble seeker, I immerse myself in the teachings, embracing the challenges that mold me. My current compass points to React's shores—a land of innovation and creativity.
-
-<h1>Unveiling Creations 🎁🌌 </h1>
-With time, the seeds of my labor sprout into projects that I humbly present to you. These quiet unveilings will paint a portrait of my journey, each pixel and line a testament to my progress. Stay tuned, for the journey is as enchanting as the destination.🔮📜
-
-<h1>Walk Alongside 🤝🌄</h1>
-If you wish to exchange thoughts, share insights, or simply partake in a quiet conversation, feel free to reach out:
-
-
-📜 GitHub Journal: github.com/ngomsogaya
-
-🌟 LinkedIn Link: linkedin.com/in/ngomsogaya
-
-In the symphony of code, every keystroke resonates with a unique melody. Together, let's compose a beautiful harmony that echoes through the digital tapestry.
-
-Yours on the journey,
-Ngomso Gaya 🍃📖
-
-
-<!--
-**NgomsoGaya/NgomsoGaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-Currently working on ideas to decentralize tetiary education and make it more accessible. also passionate about ideas that will merge with and enhance the current state of pop-culture(arts, music, fashion, theatre/acting).
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
