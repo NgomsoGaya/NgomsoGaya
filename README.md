@@ -1,6 +1,6 @@
   ![image](https://github.com/NgomsoGaya/NgomsoGaya/assets/125261321/8c7406b6-ade1-432f-ae15-093886ccebf7)
 
-<h1>Languages and Tools</h1>
+<h1 align="center">Languages and Tools</h1>
 
 <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
