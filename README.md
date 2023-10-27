@@ -1,11 +1,5 @@
   ![image](https://github.com/NgomsoGaya/NgomsoGaya/assets/125261321/8c7406b6-ade1-432f-ae15-093886ccebf7)
 
-
-Greetings, curious souls and fellow wanderers! 🌟 Step into the realm of Ngomso Gaya, an explorer rooted in the vibrant city of Cape Town. Here, within the lines of code, I unfold my narrative—one of growth, learning, and endless curiosity. Join me as I traverse the intricate paths of technology and self-discovery. 🚶‍♂️✨
-
-<h1>Weaving the Digital Thread 🕸️🧶</h1>
-Permit me to introduce myself. Ngomso Gaya at your service. Here are the threads that make up my tapestry:
-
 **Languages and Tools:**
 
 <p>
